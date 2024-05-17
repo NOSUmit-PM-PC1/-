@@ -11,6 +11,7 @@ namespace TestGit
         static void Main(string[] args)
         {
             Console.WriteLine("Первая строка кода");
+            Console.WriteLine("Вторая строка кода");
         }
     }
 }
